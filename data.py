@@ -96,4 +96,4 @@ def get_data(stk_name):
         return dp
 
     except:
-        print("No Stock Data Available...")
+        print("No Stock Data Available....")
